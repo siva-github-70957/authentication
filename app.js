@@ -242,5 +242,4 @@ app.post('/submit', (req, res) => {
 
 app.listen(3000, () => {
     console.log('server started in 3000');
->>>>>>> main
 })
